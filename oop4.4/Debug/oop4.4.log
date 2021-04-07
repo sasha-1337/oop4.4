@@ -1,0 +1,9 @@
+﻿  Bubble.cpp
+  Choice.cpp
+  oop4_4.cpp
+D:\Student\oop4.4\oop4.4\oop4_4.cpp(21,26): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+D:\Student\oop4.4\oop4.4\oop4_4.cpp(53,26): warning C4566: символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+  Создание кода...
+D:\Student\oop4.4\oop4.4\Choice.cpp(57): warning C4715: Choice::foreach1: значение возвращается не при всех путях выполнения
+D:\Student\oop4.4\oop4.4\Bubble.cpp(58): warning C4715: Bubble::foreach1: значение возвращается не при всех путях выполнения
+  oop4.4.vcxproj -> D:\Student\oop4.4\Debug\oop4.4.exe

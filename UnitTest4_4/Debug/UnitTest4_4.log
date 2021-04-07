@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest4_4.cpp
+D:\Student\oop4.4\oop4.4\Bubble.cpp(58): warning C4715: Bubble::foreach1: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Student\oop4.4\Debug\UnitTest4_4.lib и объект D:\Student\oop4.4\Debug\UnitTest4_4.exp
+  UnitTest4_4.vcxproj -> D:\Student\oop4.4\Debug\UnitTest4_4.dll
